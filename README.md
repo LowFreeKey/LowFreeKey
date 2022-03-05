@@ -1,6 +1,6 @@
 ### Ahoy!👋
 - 🔭 Currently working on building the bridge between our curreent legal framework and DAOS / Web 3.0 
-- 🌱 Learning Rust as WASM becomes more estbalished throught the blockchain industry. 
+- 🌱 Learning Rust as WASM becomes more estbalished throughout the blockchain industry. 
 - 🎸 Sometimes seen [busking](https://www.youtube.com/watch?v=MJDTOGBSEUE) in the mountains of Switzerland ^^
 - 📫 Contact laszlo@kawak.org 
 
