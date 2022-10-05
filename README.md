@@ -1,5 +1,5 @@
 ### Ahoy!👋
-- 🔭 Currently working on building the bridge between our curreent legal framework and DAOS / Web 3.0 
+- 🔭 Currently working on building the bridge between our curreent legal framework and DAOS / Web 3.0 kawak.org 
 - 🌱 Learning Rust / Motoko as WASM becomes more estbalished in the blockchain industry. 
 - 🎸 Sometimes seen [busking](https://www.youtube.com/watch?v=MJDTOGBSEUE) in the mountains of Switzerland ^^
 - 📫 Contact laszlo@kawak.org 
