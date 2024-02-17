@@ -1,8 +1,7 @@
 ### Ahoy!👋
-- 🔭 Currently working on building the bridge between our curreent legal framework and DAOS / Web 3.0 [kawak.org](https://3ysab-rqaaa-aaaan-qaewq-cai.ic0.app/) 
-- 🌱 Learning Rust / Motoko as WASM becomes more estbalished in the blockchain industry. 
-- 🎸 Sometimes seen [busking](https://www.youtube.com/watch?v=MJDTOGBSEUE) in the mountains of Switzerland ^^
-- 📫 Contact laszlo@kawak.org 
+- 🔭 Currently working on CasaSwap, a Web3.0 home exchange platform. 
+- 🎸 Love to chat about Music, Democracy & Internet.
+- 📫 Contact laszlo@kawak.org
 
 <!--
 **LowFreeKey/LowFreeKey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
