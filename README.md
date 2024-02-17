@@ -1,6 +1,6 @@
 ### Ahoy!👋
 - 🔭 Currently working on CasaSwap, a Web3.0 home exchange platform. 
-- 🎸 Love to chat about Music, Democracy & Internet.
+- 🎸 Love to chat about Music, Democracy & Free Speech.
 - 📫 Contact laszlo@kawak.org
 
 <!--
