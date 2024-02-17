@@ -1,7 +1,7 @@
 ### Ahoy!👋
 - 🔭 Currently working on CasaSwap, a Web3.0 home exchange platform. 
 - 🎸 Love to chat about Music, Democracy & Free Speech.
-- 📫 Contact laszlo@kawak.org
+- 📫 Contact laszlo@casaswap.io
 
 <!--
 **LowFreeKey/LowFreeKey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
