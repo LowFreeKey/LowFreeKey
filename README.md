@@ -1,5 +1,6 @@
 ### Ahoy!👋
-- 🔭 Currently working on CasaSwap, a Web3.0 home exchange platform. 
+- 🔭 Currently working on CasaSwap, a Web3.0 home exchange platform.
+- 🌱 Previously built KawaK on the IC as a peer 2 peer feedback tool. https://3ysab-rqaaa-aaaan-qaewq-cai.ic0.app/#/
 - 🎸 Love to chat about Music, Democracy & Free Speech.
 - 📫 Contact laszlo@casaswap.io
 
